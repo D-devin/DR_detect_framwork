@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="19px" height="7px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="0" y1="3.5" x2="19" y2="3.5" id="LinearGradient2640">
+      <stop id="Stop2641" stop-color="#eeffff" offset="0" />
+      <stop id="Stop2642" stop-color="#eeffff" offset="0.08" />
+      <stop id="Stop2643" stop-color="#ecfffe" offset="0.08" />
+      <stop id="Stop2644" stop-color="#aff1d9" offset="0.23" />
+      <stop id="Stop2645" stop-color="#79e5b9" offset="0.36" />
+      <stop id="Stop2646" stop-color="#4edb9f" offset="0.5" />
+      <stop id="Stop2647" stop-color="#2cd48a" offset="0.63" />
+      <stop id="Stop2648" stop-color="#14ce7c" offset="0.76" />
+      <stop id="Stop2649" stop-color="#05cb73" offset="0.87" />
+      <stop id="Stop2650" stop-color="#00ca70" offset="0.97" />
+      <stop id="Stop2651" stop-color="#00ca70" offset="1" />
+    </linearGradient>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip2652">
+      <path d="M 17.122509110000003 6  L 0.905004884000001 6  L 1.9340345005000004 0  L 17.945732845000002 0  C 18.27502232 0  18.52198185 0.3032929849999988  18.439659505000005 0.6499135490000008  L 17.61643577 5.632584099999999  C 17.575274645000004 5.89254953  17.36947624 6.065859790000001  17.122509110000003 6  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -28 -19 )">
+    <path d="M 17.122509110000003 6  L 0.905004884000001 6  L 1.9340345005000004 0  L 17.945732845000002 0  C 18.27502232 0  18.52198185 0.3032929849999988  18.439659505000005 0.6499135490000008  L 17.61643577 5.632584099999999  C 17.575274645000004 5.89254953  17.36947624 6.065859790000001  17.122509110000003 6  Z " fill-rule="nonzero" fill="url(#LinearGradient2640)" stroke="none" transform="matrix(1 0 0 1 28 19 )" class="fill" />
+    <path d="M 17.122509110000003 6  L 0.905004884000001 6  L 1.9340345005000004 0  L 17.945732845000002 0  C 18.27502232 0  18.52198185 0.3032929849999988  18.439659505000005 0.6499135490000008  L 17.61643577 5.632584099999999  C 17.575274645000004 5.89254953  17.36947624 6.065859790000001  17.122509110000003 6  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 28 19 )" class="stroke" mask="url(#Clip2652)" />
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1614px" height="15px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 1 -80 )">
+    <path d="M 0 1  L 1601 1  " stroke-width="2" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 0 81 )" class="stroke" />
+  </g>
+  <style>svg { filter: drop-shadow(5px 5px 2.5px rgba(0, 0, 0, 0.34901960784313724)); }</style>
+</svg>

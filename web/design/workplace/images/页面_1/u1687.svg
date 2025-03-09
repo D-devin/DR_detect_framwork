@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="8px" height="10px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip2605">
+      <path d="M 0.625 8.25  L 0.625 2  C 0.625 1.3100000000000023  1.1846000000000032 0.75  1.875 0.75  L 6.25 0.75  C 6.940399999999997 0.75  7.5 1.3100000000000023  7.5 2  L 7.5 8.25  C 7.5 8.939999999999998  6.940399999999997 9.5  6.25 9.5  L 1.875 9.5  C 1.1846000000000032 9.5  0.625 8.939999999999998  0.625 8.25  Z M 6.25 2  L 1.875 2  L 1.875 8.25  L 6.25 8.25  L 6.25 2  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -33 -124 )">
+    <path d="M 0.625 8.25  L 0.625 2  C 0.625 1.3100000000000023  1.1846000000000032 0.75  1.875 0.75  L 6.25 0.75  C 6.940399999999997 0.75  7.5 1.3100000000000023  7.5 2  L 7.5 8.25  C 7.5 8.939999999999998  6.940399999999997 9.5  6.25 9.5  L 1.875 9.5  C 1.1846000000000032 9.5  0.625 8.939999999999998  0.625 8.25  Z M 6.25 2  L 1.875 2  L 1.875 8.25  L 6.25 8.25  L 6.25 2  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 0.5490196078431373)" stroke="none" transform="matrix(1 0 0 1 33 124 )" class="fill" />
+    <path d="M 0.625 8.25  L 0.625 2  C 0.625 1.3100000000000023  1.1846000000000032 0.75  1.875 0.75  L 6.25 0.75  C 6.940399999999997 0.75  7.5 1.3100000000000023  7.5 2  L 7.5 8.25  C 7.5 8.939999999999998  6.940399999999997 9.5  6.25 9.5  L 1.875 9.5  C 1.1846000000000032 9.5  0.625 8.939999999999998  0.625 8.25  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 33 124 )" class="stroke" mask="url(#Clip2605)" />
+    <path d="M 6.25 2  L 1.875 2  L 1.875 8.25  L 6.25 8.25  L 6.25 2  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 33 124 )" class="stroke" mask="url(#Clip2605)" />
+  </g>
+</svg>
